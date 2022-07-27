@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="msZ-6Y-dhB">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Table View Controller-->
+        <scene sceneID="Mdk-vf-3vG">
+            <objects>
+                <tableViewController id="ewC-VE-ni8" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" sectionFooterHeight="-1" id="WwD-fb-46p">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <sections>
+                            <tableViewSection headerTitle="" footerTitle="水餃" id="jCc-3L-4dv">
+                                <cells>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="201" id="Clu-aO-dt3">
+                                        <rect key="frame" x="0.0" y="44.5" width="414" height="201"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Clu-aO-dt3" id="PLl-s1-PQy">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="201"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Lkn-Y2-dUb">
+                                                    <rect key="frame" x="27" y="0.0" width="360" height="200"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <subviews>
+                                                        <view contentMode="scaleToFill" id="SMy-zD-zA0">
+                                                            <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
+                                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                            <subviews>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="饗食天堂_01" translatesAutoresizingMaskIntoConstraints="NO" id="5go-Iw-Lf4">
+                                                                    <rect key="frame" x="368" y="0.0" width="360" height="200"/>
+                                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                </imageView>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="饗食天堂_01" translatesAutoresizingMaskIntoConstraints="NO" id="Zdh-IS-nFw">
+                                                                    <rect key="frame" x="736" y="0.0" width="360" height="200"/>
+                                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                </imageView>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="高記生炒魷魚_01" translatesAutoresizingMaskIntoConstraints="NO" id="ftR-Hj-DCI">
+                                                                    <rect key="frame" x="1104" y="0.0" width="360" height="200"/>
+                                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                </imageView>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="蘿蔔糕、糯米腸" translatesAutoresizingMaskIntoConstraints="NO" id="5IZ-cv-wOR">
+                                                                    <rect key="frame" x="1472" y="0.0" width="360" height="200"/>
+                                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                </imageView>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="饗食天堂_01" translatesAutoresizingMaskIntoConstraints="NO" id="qR0-Pn-n4U">
+                                                                    <rect key="frame" x="0.0" y="0.0" width="360" height="200"/>
+                                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                </imageView>
+                                                                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="de0-aG-f19">
+                                                                    <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
+                                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                    <state key="normal" title="Button"/>
+                                                                    <buttonConfiguration key="configuration" style="tinted" title="Button"/>
+                                                                    <connections>
+                                                                        <segue destination="ofL-4g-yO6" kind="show" id="uDu-bJ-kka"/>
+                                                                    </connections>
+                                                                </button>
+                                                            </subviews>
+                                                            <viewLayoutGuide key="safeArea" id="Kux-W3-MF6"/>
+                                                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                                        </view>
+                                                    </subviews>
+                                                    <viewLayoutGuide key="contentLayoutGuide" id="0S0-xq-tok"/>
+                                                    <viewLayoutGuide key="frameLayoutGuide" id="Slp-LC-ugF"/>
+                                                    <userDefinedRuntimeAttributes>
+                                                        <userDefinedRuntimeAttribute type="size" keyPath="contentSize">
+                                                            <size key="value" width="1830" height="0.0"/>
+                                                        </userDefinedRuntimeAttribute>
+                                                    </userDefinedRuntimeAttributes>
+                                                </scrollView>
+                                            </subviews>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </cells>
+                            </tableViewSection>
+                        </sections>
+                        <connections>
+                            <outlet property="dataSource" destination="ewC-VE-ni8" id="4dc-Qo-DfK"/>
+                            <outlet property="delegate" destination="ewC-VE-ni8" id="iPn-2a-7JY"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="Lav-p1-TMC"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vH1-PF-XPF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1921.7391304347827" y="-590.625"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="FbY-Gq-4rq">
+            <objects>
+                <viewController id="ofL-4g-yO6" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="MnC-dg-70x">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="Eq9-tS-IPz"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="DOe-z0-05E"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="YRh-pc-7Zo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3376.811594202899" y="-877.23214285714278"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="MyPhoto" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="9sv-N0-ay9"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1013.0434782608696" y="68.973214285714278"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="WlD-N1-9OY">
+            <objects>
+                <viewController id="tcN-cP-0oK" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="UQw-mw-eAW">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="3cC-p3-tjp"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="gxT-l3-I6r"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="JlZ-OS-qTe" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1016" y="731"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="UlB-Ki-0eV">
+            <objects>
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="msZ-6Y-dhB" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="eTo-RT-9vt">
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="tZ4-kA-94M"/>
+                        <segue destination="tcN-cP-0oK" kind="relationship" relationship="viewControllers" id="NrA-xW-btq"/>
+                        <segue destination="Bvk-ZP-IKK" kind="relationship" relationship="viewControllers" id="Rot-CN-cwW"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cC8-Ct-Ryd" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="102.89855072463769" y="68.973214285714278"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="X42-Ad-aMn">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Bvk-ZP-IKK" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Item" id="CPV-mO-sTs"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="drj-6N-LwF">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="ewC-VE-ni8" kind="relationship" relationship="rootViewController" id="316-2T-SZa"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KZv-MB-SM4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1011.5942028985507" y="-590.625"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="蘿蔔糕、糯米腸" width="850" height="851"/>
+        <image name="饗食天堂_01" width="800" height="450"/>
+        <image name="高記生炒魷魚_01" width="768" height="768"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
