@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ABV閣樓餐酒館景觀餐廳拷貝2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
