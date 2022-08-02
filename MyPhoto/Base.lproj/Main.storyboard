@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <sections>
-                            <tableViewSection headerTitle="" footerTitle="捷運板橋站" id="jCc-3L-4dv">
+                            <tableViewSection headerTitle="" id="jCc-3L-4dv">
                                 <cells>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="201" id="p3u-CU-WxE">
                                         <rect key="frame" x="0.0" y="44.5" width="414" height="201"/>
@@ -58,7 +58,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="dNf-Gn-OCG" kind="show" id="CPG-WG-nV1"/>
                                                                     </connections>
@@ -117,7 +117,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="ofL-4g-yO6" kind="show" id="uDu-bJ-kka"/>
                                                                     </connections>
@@ -177,7 +177,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="Rdh-1R-6jm" kind="show" id="W3j-67-bLP"/>
                                                                     </connections>
@@ -237,7 +237,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="l5v-3L-vxn" kind="show" id="VRU-Y9-Te6"/>
                                                                     </connections>
@@ -297,7 +297,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="dpU-Ee-PWY" kind="show" id="wQy-GI-hbn"/>
                                                                     </connections>
@@ -357,7 +357,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="Dau-Iz-o9n" kind="show" id="cgQ-DC-pyQ"/>
                                                                     </connections>
@@ -417,7 +417,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="DVB-lB-IMv" kind="show" id="n3v-wu-e6m"/>
                                                                     </connections>
@@ -477,7 +477,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="ntg-ac-Xs6" kind="show" id="Dj2-1Z-RjI"/>
                                                                     </connections>
@@ -537,7 +537,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="IDp-KO-o1a" kind="show" id="YFy-5E-Gxo"/>
                                                                     </connections>
@@ -597,7 +597,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="LEC-SH-CDz" kind="show" id="Wpx-hV-kcC"/>
                                                                     </connections>
@@ -725,7 +725,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="TLp-qC-c1y" kind="show" id="WN7-Jy-hDI"/>
                                                                     </connections>
@@ -785,7 +785,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="Uf7-iB-EIP" kind="show" id="hsJ-fi-xPu"/>
                                                                     </connections>
@@ -845,7 +845,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="8zZ-EI-fQw" kind="show" id="pd7-9U-7id"/>
                                                                     </connections>
@@ -909,7 +909,7 @@
                                                             <rect key="frame" x="0.0" y="-8" width="1830" height="200"/>
                                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                             <state key="normal" title="Button"/>
-                                                            <buttonConfiguration key="configuration" style="tinted"/>
+                                                            <buttonConfiguration key="configuration" style="plain"/>
                                                             <connections>
                                                                 <segue destination="O4Y-cn-cOK" kind="show" id="UrO-Nd-ZRe"/>
                                                             </connections>
@@ -965,7 +965,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="fNi-mU-c1Z" kind="show" id="qWK-UM-Fw2"/>
                                                                     </connections>
@@ -1025,7 +1025,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="vgX-jn-wA6" kind="show" id="GGp-LF-dkm"/>
                                                                     </connections>
@@ -1110,7 +1110,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="SEH-NB-rap" kind="show" id="fSS-rl-iH9"/>
                                                                     </connections>
@@ -1170,7 +1170,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="1VO-qm-flx" kind="show" id="ApJ-uk-wXW"/>
                                                                     </connections>
@@ -1230,7 +1230,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="2Du-MT-iZA" kind="show" id="I2B-xK-s2e"/>
                                                                     </connections>
@@ -1290,7 +1290,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="I1l-TI-UCy" kind="show" id="iKd-zM-FPI"/>
                                                                     </connections>
@@ -1350,7 +1350,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="8SI-ex-lvB" kind="show" id="4gO-Lx-1N9"/>
                                                                     </connections>
@@ -1410,7 +1410,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="ihU-xT-Iqj" kind="show" id="Hcg-4r-8tr"/>
                                                                     </connections>
@@ -1470,7 +1470,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="bqp-KF-DkE" kind="show" id="Pdk-or-jlC"/>
                                                                     </connections>
@@ -1555,7 +1555,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="02d-k1-Cuv" kind="show" id="CGR-rN-iZf"/>
                                                                     </connections>
@@ -1615,7 +1615,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="EfR-g1-6PR" kind="show" id="kLF-Gq-NzE"/>
                                                                     </connections>
@@ -1675,7 +1675,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="PeI-BL-wVg" kind="show" id="rcs-cY-Ijl"/>
                                                                     </connections>
@@ -1735,7 +1735,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="A3S-K1-MbL" kind="show" id="HyF-Cm-NWV"/>
                                                                     </connections>
@@ -1795,7 +1795,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="UE0-0o-fDr" kind="show" id="hYp-kj-HBj"/>
                                                                     </connections>
@@ -1880,7 +1880,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="FxS-lh-5Z1" kind="show" id="VfI-Nc-Mcq"/>
                                                                     </connections>
@@ -1940,7 +1940,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="oMY-tq-v83" kind="show" id="r4b-ID-X0o"/>
                                                                     </connections>
@@ -2000,7 +2000,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="VC2-gK-mlg" kind="show" id="Id9-AA-Jjz"/>
                                                                     </connections>
@@ -2060,7 +2060,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="gYe-d4-3e2" kind="show" id="UoI-QC-7CQ"/>
                                                                     </connections>
@@ -2120,7 +2120,7 @@
                                                                     <rect key="frame" x="0.0" y="0.0" width="1830" height="200"/>
                                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                     <state key="normal" title="Button"/>
-                                                                    <buttonConfiguration key="configuration" style="tinted"/>
+                                                                    <buttonConfiguration key="configuration" style="plain"/>
                                                                     <connections>
                                                                         <segue destination="l8m-VJ-F0U" kind="show" id="BND-2X-I7V"/>
                                                                     </connections>
@@ -2246,6 +2246,12 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="drj-6N-LwF">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                        </textAttributes>
+                        <textAttributes key="largeTitleTextAttributes">
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="0.0"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
@@ -2265,6 +2271,9 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="2tu-5e-fUz">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
@@ -2284,6 +2293,9 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="553-I9-IkE">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
@@ -2303,6 +2315,9 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="WTF-L9-8lZ">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
@@ -2322,6 +2337,9 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="ehz-g0-Mjv">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
